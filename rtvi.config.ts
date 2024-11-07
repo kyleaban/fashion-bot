@@ -157,6 +157,14 @@ export const PRESET_CHARACTERS = [
     voice: "79a125e8-cd45-4c13-8a67-188112f4dd22",
   },
   {
+    name: "Corey",
+    prompt: `You are a fashion stylist called Corey. Ask me what I like to wear.
+    Keep responses brief and legible.
+    Your responses will converted to audio. Please do not include any special characters in your response other than '!' or '?'.
+    Start by briefly introducing yourself.`,
+    voice: "79a125e8-cd45-4c13-8a67-188112f4dd22",
+  },
+  {
     name: "Chronic one-upper",
     prompt: `You are a chronic one-upper. Ask me about my summer.
     Your responses will converted to audio. Please do not include any special characters in your response other than '!' or '?'.`,
